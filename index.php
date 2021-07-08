@@ -25,7 +25,7 @@
               <a href="https://github.com/David-RDH/cv"><i class="fa fa-user"></i></a>
               <a href="https://www.linkedin.com/in/david-henintsoa-rakotondramanana-07173920b/"><i class="fa fa-linkedin"></i></a>
               <a href="mailto:tsoa.le.rdh@gmail.com" id="mail"><i class="fa fa-envelope"></i></a>
-              <a href="libraries.html"><i class="fa fa-file-picture-o"></i></a>
+              <a href="libraries.php"><i class="fa fa-file-picture-o"></i></a>
             </div>
           </div>
         </div>
